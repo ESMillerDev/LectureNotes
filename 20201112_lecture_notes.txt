@@ -1,0 +1,22 @@
+Adam Jayne
+ajayne@elevenfifty.org
+
+Paul Niemczyk
+pniemczyk@elevenfifty.org
+
+
+ASSIGNMENT: STATIC LAYOUT (18 pts)
+    recreate a statis website
+    non-functional
+    My selection: https://www.kastapp.co/
+    Due Date: Saturday, Nov 21 at 23:59
+    Deliverable: GitHub site
+
+ASSIGNMENT: TERMINAL DUNGEON (5 pts)
+    Due Date: Tuesday, Nov 17 at 23:59
+        => completed Nov 12, 2020 and submitted screengrab
+    Deliverable: screen shot showing completion
+
+CHALLENGE: Name Comparison
+
+CHALLENGE: Types

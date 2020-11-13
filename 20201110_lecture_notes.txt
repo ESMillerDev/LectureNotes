@@ -1,0 +1,13 @@
+Terminal/Powershell Notes:
+
+	cd <foldername> = change directory to <place>
+	cd .. = go up one directory level
+	
+	ls = list folder contents
+	mkdir <foldername> = make directory
+	
+	CLI = Command-Line Interface
+	
+	code . = open VSC
+	
+	
